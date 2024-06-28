@@ -5,4 +5,5 @@ Piatto degustrato molto in campeggio da mio padre e mia sorella, anche a mezzano
 * aglio
 * olio
 * peperoncino
+* prezzemolo 
 
