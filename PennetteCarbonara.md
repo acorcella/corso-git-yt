@@ -5,6 +5,6 @@ La famosa ricetta alternativa.
 ## Ingredienti
 * penne
 * uova
-* pancetta
+* guanciale 
 * pepe nero 
 
